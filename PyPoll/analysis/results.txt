@@ -1,0 +1,9 @@
+Election Results
+----------------------------
+Total Votes: 369711
+----------------------------
+['Charles Casper Stockham', '(23.05%)', '85214']
+['Diana DeGette', '(96.86%)', '358106']
+['Raymon Anthony Doane', '(100.0%)', '369710']
+----------------------------
+Winner: Raymon Anthony Doane
